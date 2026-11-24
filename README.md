@@ -13,4 +13,4 @@ Sales by Category and Sub-Category: Breakdown by product categories like Office 
 Intuitive, user-friendly design.
 Dynamic filters by region (Central, East, South, West).
 Data visualizations such as bar charts, pie charts, and line graphs.
-Drill-through capabilities for detailed analysis.
+Drill-through capabilities for detailed analysis
